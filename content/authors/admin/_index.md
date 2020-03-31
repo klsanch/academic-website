@@ -66,10 +66,10 @@ email: "akjags@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: '[]'
+user_groups: []
 #- Researchers
 #- Visitors
 ---
 I am a 4th year PhD student studying cognitive neuroscience, advised by Prof. Justin Gardner. I am interested in how visual experience is constructed by the brain. 
 
-Prior to joining Stanford, I was at the University of California, Berkeley, where I worked in the lab of Prof. Mark D’Esposito. From 2015 to 2016, I was a visiting researcher in the lab of Dr. Martin Rolfs at BCCN Berlin.
+Prior to joining Stanford, I was an undergraduate at UC Berkeley, where I worked in the lab of Prof. Mark D’Esposito. From 2015 to 2016, I was a visiting researcher in the lab of Dr. Martin Rolfs at BCCN Berlin.
