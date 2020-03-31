@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Psychology - Neurocience Area
+  - course: PhD in Psychology
     institution: Stanford University
-    year: 2022 (ongoing)
+    year: currently ongoing
   - course: BA in Computer Science
     institution: University of California, Berkeley
     year: 2016
