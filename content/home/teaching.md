@@ -18,9 +18,13 @@ I was a graduate student instructor for the following courses at Stanford Univer
 
 - Psych 50: Intro to Cognitive Neuroscience
   - Winter 2018, Winter 2019
+
 - Psych 30: Perception
   - Fall 2017, Fall 2018
+
 - NEPR 207: Neurosciences Cognitive Core
   - Spring 2019, Spring 2020
 
-  In addition, I teach AI to high school students, through the [Inspirit AI institute](https://www.inspiritai.com/).
+
+
+In addition, I teach AI to high school students, through the [Inspirit AI institute](https://www.inspiritai.com/).
