@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a PhD student, researching how the brain gives rise to perception and behavior.
+bio: Neuroscientist-in-training, studying how the brain gives rise to perception and behavior.
 
 interests:
 - Computational Neuroscience
