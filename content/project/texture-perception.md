@@ -3,17 +3,17 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "Textures"
+title = "Texture Perception"
 
 # Project summary to display on homepage.
-summary = "What are the features that make up objects?"
+summary = "How does the visual system encode textures and objects?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
+image_preview = "cat1_bricks1.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+tags = ["vision-science", "deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "figS2.png"
+caption = "We can synthesize textures by matching features extracted from a deep neural network."
 
 +++
 
