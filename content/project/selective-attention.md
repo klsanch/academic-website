@@ -9,7 +9,7 @@ title = "Visual Attention"
 summary = "Attention enhances the resolution of visual perception by altering sensory representations. What are the computations by which the brain selectively prioritizes the encoding of goal-relevant information?"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "cat1_bricks1.png"
+image_preview = "figS2.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
