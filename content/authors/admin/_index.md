@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Stanford University
-    year: currently ongoing
+    year: in progress
   - course: BA in Computer Science
     institution: University of California, Berkeley
     year: 2016
