@@ -22,8 +22,8 @@ bio: Neuroscientist-in-training, studying how the brain gives rise to perception
 
 interests:
 - Computational Neuroscience
-- Visual Perception
-- Spatial Attention
+- Vision Science 
+- Attention
 - Texture Perception
 
 education:
