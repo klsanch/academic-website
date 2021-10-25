@@ -12,6 +12,7 @@ subtitle = ""
 +++
 
 I have been a Teaching Assistant for the following classes at Stanford:
+ - Wise Interventions
  - Psychology of Scarcity 
  - Introduction to Psychology 
  - Self and Society: Introduction to Social Psychology (head TA) 
