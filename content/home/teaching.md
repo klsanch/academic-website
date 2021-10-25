@@ -1,30 +1,26 @@
 +++
-# Custom widget.
-# An example of using the custom widget to create your own homepage section.
-# To create more sections, duplicate this file and edit the values below as desired.
-widget = "blank"
-active = true
+# Teaching - Custom widget
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
+
 title = "Teaching"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 95
 
 +++
 
-I was a graduate student instructor for the following courses at Stanford University:
-
-- Psych 50: Intro to Cognitive Neuroscience
-  - Winter 2018, Winter 2019
-
-- Psych 30: Perception
-  - Fall 2017, Fall 2018
-
-- NEPR 207: Neurosciences Cognitive Core
-  - Spring 2019, Spring 2020
+I have been a Teaching Assistant for the following classes at Stanford:
+ - Psychology of Scarcity 
+ - Introduction to Psychology 
+ - Self and Society: Introduction to Social Psychology (head TA) 
+ - Introduction to Comparative Studies in Race & Ethnicity
+ - Intergroup Communication 
 
 
+I have been a Head Instructor for the following classes at Stanford:
+ - Introduction to Social Psychology 
 
-In addition, I teach AI to high school students, through the [Inspirit AI institute](https://www.inspiritai.com/).
+ I have guest lectured in the following classes at Stanford: 
+ - Cultural Psychology

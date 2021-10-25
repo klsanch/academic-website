@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Akshay Jagadeesh
+title: Kiara Sanchez
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Neuroscientist-in-training, studying how the brain gives rise to perception and behavior.
+bio: social psychologist, interested close intergroup relationships and conversations about identity
 
 interests:
-- Computational Neuroscience
-- Vision Science 
-- Attention
-- Texture Perception
+- Social Psychology
+- Intergroup Friendship
+- Race Talk
+- Interventions
+- Identity Safety
+
 
 education:
   courses:
   - course: PhD in Psychology
     institution: Stanford University
     year: in progress
-  - course: BA in Computer Science
-    institution: University of California, Berkeley
+  - course: BA in Psychology and Sociology
+    institution: Rice University
     year: 2016
-  - course: BA in Cognitive Science
-    institution: University of California, Berkeley
-    year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/akjags
+  link: https://twitter.com/keeksanch
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com
-- icon: github
-  icon_pack: fab
-  link: https://github.com/akjags
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "akjags@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,8 +70,5 @@ user_groups: []
 #- Researchers
 #- Visitors
 ---
-I am a PhD student studying vision science at Stanford. My research focuses on understanding what computations the human brain performs to give rise to visual perception and naturalistic behavior. Why are humans so good at certain tasks that artificial neural network models of vision find very difficult but so bad at other tasks which deep neural networks find trivial? I am advised in my doctoral studies by [Prof. Justin Gardner](https://gru.stanford.edu).
 
-Prior to graduate school, I was an undergraduate at UC Berkeley, where I worked on decoding object category representations from visual cortex using functional MRI, in the lab of [Prof. Mark D'Esposito](http://despolab.berkeley.edu). From 2015 to 2016, I was a visiting researcher in the lab of [Dr. Martin Rolfs](www.martinrolfs.de) at Humboldt Universitat / BCCN Berlin, where I worked on a study examining the effect of feature-based attention on visual working memory.
-
-In addition to research, I am also passionate about [teaching](#teaching) and have helped design and teach several courses at both UC Berkeley and Stanford on topics ranging from computer vision to neurobiology to the science of meditation.
+I am a social psychology PhD student at Stanford University working primarily with [Dr. Greg Walton](http://www.gregorywalton-stanford.weebly.com). I am a member of the Dweck-Walton lab (PIs: Carol Dweck & Greg Walton) and Race & Social Inequality lab (PIs: Jennifer Eberhardt & Claude Steele). Before coming to Stanford I received a BA in Psychology and Sociology from Rice University, where I worked with [Dr. Mikki Hebl](http://www.mikkihebl.com/).
