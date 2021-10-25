@@ -22,8 +22,8 @@ bio: social psychologist, interested close intergroup relationships and conversa
 
 interests:
 - Social Psychology
-- Intergroup Friendship
 - Race Talk
+- Interracial Friendships
 - Interventions
 - Identity Safety
 
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Stanford University
-    year: in progress
+    year: expected spring 2022
   - course: BA in Psychology and Sociology
     institution: Rice University
     year: 2016
@@ -71,4 +71,9 @@ user_groups: []
 #- Visitors
 ---
 
-I am a social psychology PhD student at Stanford University working primarily with [Dr. Greg Walton](http://www.gregorywalton-stanford.weebly.com). I am a member of the Dweck-Walton lab (PIs: Carol Dweck & Greg Walton) and Race & Social Inequality lab (PIs: Jennifer Eberhardt & Claude Steele). Before coming to Stanford I received a BA in Psychology and Sociology from Rice University, where I worked with [Dr. Mikki Hebl](http://www.mikkihebl.com/).
+I am a social psychology PhD student at Stanford University. I am a member of the Dweck-Walton lab (PIs: [Carol Dweck](https://profiles.stanford.edu/carol-dweck) & [Greg Walton](http://www.gregorywalton-stanford.weebly.com)) and Race & Social Inequality lab (PIs: [Jennifer Eberhardt](https://web.stanford.edu/~eberhard/about-jennifer-eberhardt.html) & [Claude Steele](https://claudesteele.com/)). I am a 2021-2022 Dissertation Fellow at the Stanford [Center for the Comparative Studies in Race and Ethnicity](https://ccsre.stanford.edu/programs/graduate-dissertation-fellowship) and the [Institute for Research in Social Sciences](https://iriss.stanford.edu/people/students/dissertation-fellows). 
+
+My research explores diverse contexts in which people talk about race and ethnicity, the risks and benefits people with different racial-ethnic identities face in these conversations, and strategies to address these challenges. In doing so, I seek to identify ways to support racial-ethnic identity development, shared racial-ethnic consciousness, and closeness and authenticity in interracial contexts.
+
+In one line of research, I study how cross-race friends talk about their race-related experiences and how these conversations can impact closeness, authenticity, and learning. In other lines of work, I examine how parents and teachers think about classroom race talk, test how people are influenced by race talk on social media, and explore how people's beliefs about discomfort shape how they experience intergroup dialogue courses. 
+
