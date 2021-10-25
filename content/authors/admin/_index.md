@@ -51,7 +51,7 @@ social:
   link: https://twitter.com/keeksanch
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com
+  link: https://scholar.google.com/citations?user=31fV7PAAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
