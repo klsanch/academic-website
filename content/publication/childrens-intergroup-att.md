@@ -14,7 +14,7 @@ authors = ["Rebecca S. Bigler", "John M. Rohrbach", "Kiara L. Sanchez"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Advances in Child Development & Behavior*"

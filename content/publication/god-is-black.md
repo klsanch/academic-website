@@ -14,7 +14,7 @@ authors = ["Steven O. Roberts", "Kara Weisman", "Jonathan D. Lane", "Amber Willi
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+#publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Personality and Social Psychology*"
@@ -64,5 +64,5 @@ caption = "My caption :smile:"
 +++
 
 **Featured** in:
-- [Psychology Today](https://www.psychologytoday.com/us/blog/platonic-love/202002/the-trouble-seeing-god-white-man): The Trouble with Seeing God as a White Man
-- [Stanford Daily News](https://news.stanford.edu/2020/01/31/consequences-perceiving-god-white-man/): Who people believe rules in heaven influences their beliefs about who rules on Earth, Stanford scholars find
+- [*Psychology Today*: The Trouble with Seeing God as a White Man](https://www.psychologytoday.com/us/blog/platonic-love/202002/the-trouble-seeing-god-white-man)
+- [*Stanford Daily News*: Who people believe rules in heaven influences their beliefs about who rules on Earth, Stanford scholars find](https://news.stanford.edu/2020/01/31/consequences-perceiving-god-white-man/)

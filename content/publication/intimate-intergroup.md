@@ -14,7 +14,7 @@ authors = ["Marco Marinucci", "Rachel Maunder", "Kiara L. Sanchez", "Michael Tha
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+# publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Journal of Social Issues*"

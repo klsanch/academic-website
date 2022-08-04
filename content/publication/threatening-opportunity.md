@@ -64,6 +64,6 @@ caption = "My caption :smile:"
 +++
 
 **Featured in:**
-- [Stanford Report: Conversations about race between Black and white friends feel risky, but are valuable, Stanford psychologists find](https://news.stanford.edu/press-releases/2021/09/20/conversations-ral-risky-valuable/) (Melissa De Witte)
+- [*Stanford Report*: Conversations about race between Black and white friends feel risky, but are valuable, Stanford psychologists find](https://news.stanford.edu/press-releases/2021/09/20/conversations-ral-risky-valuable/) (Melissa De Witte)
 
-- [SPSP Character & Context: Are Cross-race Friendships Really a Panacea for Interracial Relations?](https://spsp.org/news-center/character-context-blog/are-cross-race-friendships-really-panacea-interracial-relations) (Kiara Sanchez)
+- [*SPSP Character & Context*: Are Cross-race Friendships Really a Panacea for Interracial Relations?](https://spsp.org/news-center/character-context-blog/are-cross-race-friendships-really-panacea-interracial-relations) (Kiara Sanchez)
