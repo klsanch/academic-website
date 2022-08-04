@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Mellon Faculty Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Dartmouth College
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Stanford University
-    year: expected spring 2022
+    year: 2022
   - course: BA in Psychology and Sociology
     institution: Rice University
     year: 2016
