@@ -17,7 +17,7 @@ authors = ["Kiara L. Sanchez", "David A. Kalkstein", "Gregory M. Walton"]
 # publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Personality and Social Psychology*"
+publication = "In *Journal of Personality and Social Psychology*"
 publication_short = "*JPSP*"
 
 # Abstract and optional shortened version.
@@ -64,6 +64,6 @@ caption = "My caption :smile:"
 +++
 
 **Featured in:**
-- [Stanford Report](https://news.stanford.edu/press-releases/2021/09/20/conversations-ral-risky-valuable/): Conversations about race between Black and white friends feel risky, but are valuable, Stanford psychologists find (Melissa De Witte)
+- [Stanford Report: Conversations about race between Black and white friends feel risky, but are valuable, Stanford psychologists find](https://news.stanford.edu/press-releases/2021/09/20/conversations-ral-risky-valuable/) (Melissa De Witte)
 
-- [SPSP Character & Context](https://spsp.org/news-center/character-context-blog/are-cross-race-friendships-really-panacea-interracial-relations): Are Cross-race Friendships Really a Panacea for Interracial Relations? (Kiara Sanchez)
+- [SPSP Character & Context: Are Cross-race Friendships Really a Panacea for Interracial Relations?](https://spsp.org/news-center/character-context-blog/are-cross-race-friendships-really-panacea-interracial-relations) (Kiara Sanchez)
