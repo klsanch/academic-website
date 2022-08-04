@@ -21,10 +21,9 @@ organizations:
 bio: social psychologist, interested close intergroup relationships and conversations about identity
 
 interests:
-- Social Psychology
 - Race Talk
 - Interracial Friendships
-- Interventions
+- Psychological Interventions
 - Identity Safety
 
 
@@ -73,7 +72,7 @@ user_groups: []
 
 I am a social psychologist in the [Department of Psychological and Brain Sciences](https://pbs.dartmouth.edu/) at Dartmouth College. My research explores diverse contexts in which people talk about race and ethnicity, the risks and benefits people with different identities face in these conversations, and strategies to address these challenges. In doing so, I seek to identify ways to support racial-ethnic identity development, shared racial-ethnic consciousness, and closeness and authenticity in interracial contexts. 
 
-Before joining PBS at Dartmouth, I received my PhD in [Psychology](https://psychology.stanford.edu/) from Stanford University, working with [Greg Walton](http://www.gregorywalton-stanford.weebly.com). I obtained my bachelor's degree from Rice University, where I worked with [Mikki Hebl](https://www.mikkihebl.com/). 
+Before joining PBS at Dartmouth, I received my PhD in Psychology from [Stanford University](https://psychology.stanford.edu/), working with [Greg Walton](http://www.gregorywalton-stanford.weebly.com). I obtained my bachelor's degree from Rice University, where I worked with [Mikki Hebl](https://www.mikkihebl.com/). 
 
 
 
