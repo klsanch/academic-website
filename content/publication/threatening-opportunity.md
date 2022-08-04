@@ -35,7 +35,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/SanchezKalksteinWalton_2021.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
